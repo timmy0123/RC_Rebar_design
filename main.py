@@ -1,7 +1,6 @@
 import sys,os,time
 from PyQt5 import uic
 from PyQt5.QtWidgets import QMainWindow,QApplication,QFileDialog,QMessageBox,QWidget
-import numpy.core._methods
 import math
 import numpy as np
 
